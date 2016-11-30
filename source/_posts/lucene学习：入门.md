@@ -1,9 +1,9 @@
 ---
-title: Lucene学习：入门
-date: 2016-11-19 22:16:35
+title: Lucene学习【入门】
+date: 2016-11-18 22:16:35
 tags:
 	- Lucene
-categories: lucene
+categories: Lucene
 ---
 
 ## 全文检索简介

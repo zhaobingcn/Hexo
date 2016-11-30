@@ -2,7 +2,7 @@
 title: Neo4j批量导入数据BatchInserter
 date: 2016-11-12 17:05:03
 tags:
-	- Neoej
+	- Neo4j
 	- BatchInserter
 	- Neo4j批量导入
 categories: Neo4j
