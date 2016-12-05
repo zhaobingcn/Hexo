@@ -6,3 +6,4 @@ public/
 .deploy*/
 /.deploy_git
 /public
+/node_modules
