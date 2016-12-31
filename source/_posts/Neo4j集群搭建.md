@@ -71,7 +71,7 @@ chown -R root:root /usr/neo4j/neo4j-enterprise3.0.7
 vi /usr/neo4j/neo4j-enterprise-3.0.7/conf/neo4j.conf
 
 ```
-![](/images/conf.PNG)
+![](/images/conf.png)
 
 为个虚拟机的Neo4j配置文件修改图中三个部分：
 
@@ -138,7 +138,7 @@ curl http://<your ip>:7474/db/manage/server/ha/slave
 curl http://<your ip>:7474/db/manage/server/ha/available
 ```
 详细情况如下图所示：
-![](/images/cluster_status.PNG)
+![](/images/cluster_status.png)
 
 本文结束。
 
