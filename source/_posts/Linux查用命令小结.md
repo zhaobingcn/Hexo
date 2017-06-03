@@ -374,17 +374,17 @@ chmod 777 test.txt
 u,g,o代表三中身份，a代表all，即全部身份
 
 修改test.txt的权限为rwxr-xr-x:
-
+```
 chmod u=rwx,g=r-x,o=r-x test.txt
-
+```
 去掉test.txt所有身份的x权限
-
+```
 chmod a-x test-txt
-
+```
 添加test.txt所有身份的x权限
-
+```
 chmod a+x test.txt
-
+```
 ## 状态查看命令
 
 ## 远程操作命令
