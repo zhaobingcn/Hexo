@@ -9,6 +9,22 @@ categories: Linux
 
 ## 文件操作命令
 
+### rm命令
+
+### mkdir命令
+
+### touch命令
+
+### cp命令
+
+### mv命令
+
+### cd命令
+
+### tar命令
+
+### ls命令
+
 ## 文本操作命令
 
 ### cat命令
